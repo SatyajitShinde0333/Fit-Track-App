@@ -88,7 +88,7 @@ Check <a href=>flutterfire here</a>
 
 
 # Issues? 
-If you faced any problems with using it, please feel free to open an issues request <a href=>from here</a>, I will be happy to work on it
+If you faced any problems with using it, please feel free to open an issues request <a href=>from here</a>https://github.com/SatyajitShinde0333/Fit-Track-App/issues", I will be happy to work on it
 
 # Contribute 
 There are more sections you can help this project to grow( if you want to), by adding more features, translating contents, correcting mistakes..., fork it, or clone it using git and make a new branch, make your changes and push it, I 'll be happy to add it to the main project. 
