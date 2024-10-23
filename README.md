@@ -22,7 +22,7 @@ It's a mobile application for both android and ios made for work out and fitness
 </p>
 <p align="center">
 <img src="imgs/screenshots/screenshot 3.png" alt="screenshots" />
-
+Upgrading Gradle wrapper...
 </p>
 <p align="center">
 <img src="imgs/screenshots/screenshot 4.png" alt="screenshots" />
@@ -91,4 +91,4 @@ Check <a href=>flutterfire here</a>
 If you faced any problems with using it, please feel free to open an issues request <a href=>from here</a>, I will be happy to work on it
 
 # Contribute 
-There are more sections you can help this project to grow( if you want to), by adding more features, translating contents, correcting mistakes..., fork it, or clone it using git and make a new branch, make your changes and push it, I 'll be happy to add it to the main project
+There are more sections you can help this project to grow( if you want to), by adding more features, translating contents, correcting mistakes..., fork it, or clone it using git and make a new branch, make your changes and push it, I 'll be happy to add it to the main project. 
